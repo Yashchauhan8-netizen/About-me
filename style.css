@@ -1,0 +1,26 @@
+
+    body {
+        background-color : #2E5266;
+ }
+ h2{
+    text-align: left;
+ }
+ h1{
+    text-align: center;
+ }
+ h3{
+    text-align: center;
+     text-decoration: underline;
+ }
+p{
+    text-align: center;
+}
+textarea{
+    text-align: center;
+    background-color: #2E5266;
+}
+a{
+    text-align: center;
+}
+
+ 
